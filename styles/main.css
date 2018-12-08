@@ -1,0 +1,14 @@
+h1 {
+  color: rgb(29, 27, 27);
+}
+
+a {
+  display: block;
+
+  margin: 20px;
+  padding: 20px;
+
+  background-color: rgb(234, 236, 236);
+
+  line-height: 1.5;
+}
